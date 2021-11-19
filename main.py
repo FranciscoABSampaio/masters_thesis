@@ -1,3 +1,4 @@
+# Francisco A. B. Sampaio, Portugal, 2021
 # LIBRARY AND IMPORT STATEMENTS
 
 # Essentials
